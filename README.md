@@ -1,4 +1,4 @@
-![## Sistema Daemon](/Analogico/Imagnes/Logo.png)
+![## Sistema Daemon](/Analogico/Imagens/Logo.png)
 
 O Sistema Daemon é um dos mais antigos sistema de RPG desenvolvido por brasileiros, com mais de 30 suplementos publicados e algumas dezenas de adaptações de filmes, revistas e livros publicadas em net-books ele é ainda hoje lembrando e jogo por RPGistas de longa data.
 
