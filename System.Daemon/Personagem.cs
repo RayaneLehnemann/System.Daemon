@@ -83,15 +83,6 @@ namespace System.Daemon
         }
 
         public byte BonusIP { get; set; }
-
-        public byte Sorte
-        {
-            get
-            {
-                return Convert.ToByte(Atributos[(int)NomeAtributo.Carisma].Valor * 2);
-            }
-        } 
-
         private void PopularAtributos()
         {
             foreach (var atributo in EnumUtils.GetValues<NomeAtributo>())

@@ -18,14 +18,20 @@ namespace System.Daemon
         { 
             get
             {
-                return ((Valor + Modificador) * 4) * 0.01f;
+                if (Nome != NomeAtributo.Sorte)
+                    return ((Valor + Modificador) * 4) * 0.01f;
+                else
+                    return (Valor + Modificador);
             } 
         }       
         public string Porcentagem 
         { 
             get
             {
-                return ((Valor + Modificador) * 4) + "%";
+                if (Nome != NomeAtributo.Sorte)
+                    return ((Valor + Modificador) * 4) + "%";
+                else
+                    return (Valor + Modificador) + "%";
             }
         }
     }

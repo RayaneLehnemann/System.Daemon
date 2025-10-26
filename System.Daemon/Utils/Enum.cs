@@ -9,7 +9,8 @@ namespace System.Daemon.Utils
         Inteligencia,
         Vontade,
         Percepcao,
-        Carisma
+        Carisma,
+        Sorte
     }
 
     public enum Genero
