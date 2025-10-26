@@ -1,3 +1,8 @@
 is_global = true
 build_property.RootNamespace = System.Daemon
-build_property.ProjectDir = /home/rmlehnemann/Projetos/System.Daemon/System.Daemon/
+build_property.ProjectDir = C:\Users\edmundo\Documents\Rodrigo\RPG\System.Daemon\System.Daemon\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
