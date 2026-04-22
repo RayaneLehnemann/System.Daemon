@@ -12,5 +12,6 @@
     "System.Daemon.Test/bin/Debug": true,
     "System.Daemon.Test/bin": true,
     "System.Daemon.Test/obj": true
-  }
+  },
+  "snyk.advanced.autoSelectOrganization": true
 }
